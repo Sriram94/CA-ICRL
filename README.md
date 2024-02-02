@@ -1,5 +1,5 @@
 # CA-ICRL
-This is the code for ICML submission "Confidence Aware Inverse Constrained Reinforcement Learning". 
+This is the code for ICML submission #6877: "Confidence Aware Inverse Constrained Reinforcement Learning". 
 
 Note: This is a restricted version due to file size, licensing, and anonymity considerations. Full data and code will be
 open-sourced with the paper. 
